@@ -1,0 +1,22 @@
+# Git and GitHub
+.git
+.github
+
+# Python cache and compiled files (anywhere in the project)
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv
+
+# Docs and Docker files themselves
+README.md
+.dockerignore
+Dockerfile
+
+# macOS system files
+**/.DS_Store
